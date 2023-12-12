@@ -1,0 +1,9 @@
+host: 0.0.0.0
+Folder_in: /home/dk/Folder_in/
+user: user2
+pswd: '11'
+file: p7zip-full
+folder_user2: /home/user2/
+folder_in_user2: /home/user2/folder_in
+folder_out_user2: /home/user2/folder_out
+folder_ex_user2: /home/user2/folder_ex
